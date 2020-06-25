@@ -14,4 +14,4 @@ Create a new route that queries the db and returns the businesses and their asso
 
 ## 3. Design a new table
 
-Create an ER diagram based on the existing tables. Extend this diagram to add status flags for each business. Each flag should have a name and status. As a requirement for this table, we may want to query all flags of a certain name.
+Create an diagram based on the existing tables. Extend this diagram to add status flags for each business. Each flag should have a name and status. As a requirement for this table, we may want to query all flags of a certain name.
