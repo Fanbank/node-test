@@ -8,9 +8,9 @@ Feel free to ask questions or consult any internet resources. The goal is to see
 
 Use the database credentials provided to explore the structure of the test database. We'll need to whitelist your IP address in order for you to access the database from your local machine.
 
-## 2. Create a new route
+## 2. Create and Test new route
 
-Create a new route that queries the db and returns the businesses and their associated stores.
+Create and test a new route that queries the db and returns the businesses and their associated stores.
 
 ## 3. Design a new table
 
