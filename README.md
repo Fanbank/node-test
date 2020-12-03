@@ -10,7 +10,7 @@ Use the database credentials provided to explore the structure of the test datab
 
 ## 2. Create and Test new route
 
-Create and test a new route that queries the db and returns the businesses and their associated stores.
+Create a new route that queries the db and returns the businesses and their associated stores and write a test to validate the new route works.
 
 ## 3. Design a new table
 
