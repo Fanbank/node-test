@@ -1,4 +1,4 @@
-# Fanbank Node Coding Test
+# Plink Node Coding Test
 
 You'll need to clone this repo locally so that you and your future teammates can work through some issues and make improvements to the code together.
 
@@ -16,4 +16,4 @@ Create a new route that queries the db and returns the businesses and their asso
 
 Create a diagram based on the existing tables. Extend this diagram to add status flags for each business. Each flag should have a name and status. As a requirement for this table, we may want to query all flags of a certain name.
 
-You can use this or your favorite diagraming tool: https://www.figma.com/jam
+You can use this or your favorite diagramming tool: https://www.figma.com/jam
